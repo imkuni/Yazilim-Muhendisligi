@@ -1,0 +1,2 @@
+putty - https://putty.org/
+tightvnc - https://www.tightvnc.com/download.html

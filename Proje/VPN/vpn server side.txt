@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=QoQ-GS57sQE
+
+PuTTY SSH Client - server SSH id and password
+apt-get update
+wget https://raw.githubusercontent.com/Nyr/openvpn-install/master/openvpn-install.sh 
+chmod 777 openvpn-install.sh
+bash openvpn-install.sh
+FileZilla Client - server SSH id and password
+PC Side - Pritunl OpenVPN Client

@@ -1,0 +1,13 @@
+https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-16-04
+62.112.8.178
+sudo apt-get update
+sudo apt-get install apache2
+sudo ufw app list
+sudo ufw allow 'Apache Full'
+sudo ufw status
+
+web server durdur
+sudo systemctl stop apache2
+
+web server baslat
+sudo systemctl start apache2
